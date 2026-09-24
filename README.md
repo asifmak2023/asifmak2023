@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0B8F3C&height=220&section=header&text=Muhammad%20Asif&fontSize=54&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Computer%20Science%20%7C%20Developer&descAlignY=58&descSize=18" alt="banner" />
 
-# 👋 Muhammad Asif
+# Muhammad Asif
 
 **Computer Science Professional • Developer • Technology Enthusiast**
 
